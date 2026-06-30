@@ -68,6 +68,6 @@ git push -u origin main
 
 ---
 
-**Developed by:** Fahad  
+**Developed by:** Fahad and Novwera Amjad
 **Project Name:** OceanRoute Nav  
 **Domain:** Maritime Navigation Systems | Simulation | Optimization
